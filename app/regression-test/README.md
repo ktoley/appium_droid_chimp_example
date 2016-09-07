@@ -1,7 +1,7 @@
 # Basic sample for Appium + Chimp.js + Mocha+Chai
 This test harness uses node.js appium and chimp. You don't need an IDE to build and execute it but Android Studio is recommended as it installs the Android SDK, Java, and the Emulator. 
 
-Everything related to Chimp Testing testing is in `BasicSample/app/regression-test` the root for the test harness.  The package.json is located in regression-test and you should run npm install on the command line from the path to regression-test populate node_modules.
+Everything related to Chimp Testing testing is in `./app/regression-test` the root for the test harness.  The package.json is located in regression-test and you should run npm install on the command line from the path to regression-test populate node_modules.
 
 `.scripts`  contains several .bat files to start the tests.
 1.  Start the Appium Server
