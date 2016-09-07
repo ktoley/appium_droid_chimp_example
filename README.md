@@ -1,6 +1,6 @@
 # Basic sample for Appium + Chimp.js + Mocha+Chai
 Everything related to testing is in `BasicSample/app/regression-test` the root for the test harness.  The package.json is located in regression-test and you should run npm install from this path to populate node_modules.
-(For more Information click [here](https://gitlab.com/Quality_Engineering/appium_droid/tree/master/BasicSample/app/regression-test))
+(For more Information click [here](https://github.com/ktoley/appium_droid_chimp_example/tree/master/app/regression-test))
 # Basic sample for Espresso
 
 *If you are new to Espresso, try this sample first.*
